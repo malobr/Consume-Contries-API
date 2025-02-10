@@ -41,7 +41,7 @@ index.php                # Arquivo principal que gerencia as rotas
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/malobr/PHP-API-Consume.git
+   git clone https://github.com/malobr/Consume-Contries-API.git
    ```
 
 2. Acesse a pasta do projeto:
